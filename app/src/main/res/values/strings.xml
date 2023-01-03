@@ -11,4 +11,7 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Signup</string>
+    <string name="title_activity_email_detail_host">emailDetailHostActivity</string>
+    <string name="title_email_list">emails</string>
+    <string name="title_email_detail">email Detail</string>
 </resources>
